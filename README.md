@@ -50,7 +50,7 @@ Git, GitHub, VS Code, Postman
 - Goal: Strong grip on medium → hard level problems  
 
 ---
-
+/*
 ## 🚀 Projects (Engineering in Practice)
 ### 🔹 Job Board Platform (Full Stack)
 - Authentication & authorization system  
@@ -64,7 +64,7 @@ Git, GitHub, VS Code, Postman
 - Real-world workflow simulation  
 
 ---
-
+*/
 ## 📈 Current Focus
 - Advanced DSA (LeetCode / GFG)  
 - Full Stack Development (React + Node.js)  

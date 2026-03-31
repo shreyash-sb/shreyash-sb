@@ -50,21 +50,7 @@ Git, GitHub, VS Code, Postman
 - Goal: Strong grip on medium → hard level problems  
 
 ---
-/*
-## 🚀 Projects (Engineering in Practice)
-### 🔹 Job Board Platform (Full Stack)
-- Authentication & authorization system  
-- Recruiter & candidate dashboards  
-- Resume upload & job application system  
-- REST API architecture  
 
-### 🔹 Hotel Management System
-- Modular system design  
-- Admin + user interaction  
-- Real-world workflow simulation  
-
----
-*/
 ## 📈 Current Focus
 - Advanced DSA (LeetCode / GFG)  
 - Full Stack Development (React + Node.js)  

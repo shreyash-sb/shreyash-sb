@@ -1,52 +1,98 @@
-# README
+# Hi 👋
 
-## Table of Contents
-1. [About Me](#about-me)
-2. [Technical Stack](#technical-stack)
-3. [Core Competencies](#core-competencies)
-4. [Problem-Solving Profile](#problem-solving-profile)
-5. [Current Focus](#current-focus)
-6. [Learning Strategy](#learning-strategy)
-7. [Achievements](#achievements)
-8. [Professional Badges](#professional-badges)
-9. [Personal Philosophy](#personal-philosophy)
+I am Shreyash Bobalade, an Information Technology student focused on building scalable systems and solving real-world problems through efficient code.
 
-## About Me
-Welcome to my profile! I am a dedicated professional with a passion for technology and innovation. My goal is to contribute to impactful projects and continuously improve my skills.
+---
 
-## Technical Stack
-| Language/Technology | Proficiency |
-|---------------------|-------------|
-| Python              | Expert      |
-| JavaScript          | Intermediate |
-| React               | Intermediate |
-| Node.js             | Intermediate |
-| SQL                 | Expert      |
+## 🎯 Career Objective
+To secure a high-impact software engineering role (15+ LPA) by mastering Data Structures, System Design, and Full Stack Development while building production-level projects.
 
-## Core Competencies
-- [x] Software Development
-- [x] Problem-Solving
-- [x] Team Collaboration
-- [x] Project Management
+---
 
-## Problem-Solving Profile
-I have a strong analytical mindset that enables me to dissect problems efficiently and devise effective solutions.
+## 🧠 Engineering Mindset
+- I focus on **problem-solving over syntax**
+- I prefer **building real-world systems** over tutorial projects
+- I believe in **consistency > motivation**
+- I optimize for **long-term skill compounding**
 
-## Current Focus
-I am currently focused on enhancing my skills in web development and machine learning.
+---
 
-## Learning Strategy
-I embrace a habit of lifelong learning through online courses, reading books, and collaborating with peers.
+## 🛠️ Technical Stack
+**Languages:**  
+C, C++, Python, Java  
 
-## Achievements
-| Achievement                     | Year |
-|---------------------------------|------|
-| First Place in Coding Hackathon  | 2023 |
-| Completed Machine Learning Course | 2024 |
-| Contributor to Open Source       | 2025 |
+**Frontend:**  
+HTML, CSS, JavaScript, React  
 
-## Professional Badges
-[LinkedIn Badge](#) | [GitHub Badge](#)
+**Backend:**  
+Node.js, Express.js  
 
-## Personal Philosophy
-I believe in the power of continuous growth and the importance of maintaining a work-life balance. Finding joy in my work is essential to my success.
+**Database:**  
+MySQL, MongoDB  
+
+**Tools & Platforms:**  
+Git, GitHub, VS Code, Postman  
+
+---
+
+## 📊 Core Competencies
+- Data Structures & Algorithms  
+- Object-Oriented Programming  
+- DBMS & SQL  
+- Operating Systems (Basics)  
+- Computer Networks (Basics)  
+
+---
+
+## 🧩 Problem Solving Profile
+- Actively solving DSA problems  
+- Focus on patterns: Arrays, Strings, Recursion, Trees, Graphs  
+- Goal: Strong grip on medium → hard level problems  
+
+---
+/*
+## 🚀 Projects (Engineering in Practice)
+### 🔹 Job Board Platform (Full Stack)
+- Authentication & authorization system  
+- Recruiter & candidate dashboards  
+- Resume upload & job application system  
+- REST API architecture  
+
+### 🔹 Hotel Management System
+- Modular system design  
+- Admin + user interaction  
+- Real-world workflow simulation  
+
+---
+*/
+## 📈 Current Focus
+- Advanced DSA (LeetCode / GFG)  
+- Full Stack Development (React + Node.js)  
+- System Design fundamentals  
+
+---
+
+## 📚 Learning Strategy
+- Build → Break → Debug → Optimize  
+- Focus on **concept clarity + implementation**  
+- Maintain **project-first approach**  
+
+---
+
+## 🏆 Achievements
+- 98.67% in CET  
+- 88.32% in JEE Mains  
+- Strong academic consistency  
+
+---
+
+## 🔗 Connect With Me
+- LinkedIn: https://linkedin.com/in/shreyash-bobalade  
+- GitHub: https://github.com/your-username  
+
+---
+
+## ⚡ Personal Philosophy
+"Discipline and consistency build engineers. Not shortcuts."
+
+---

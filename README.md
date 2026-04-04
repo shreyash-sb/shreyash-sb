@@ -50,27 +50,6 @@ Git, GitHub, VS Code, Postman
 - Goal: Strong grip on medium → hard level problems  
 
 ---
-/*
-## 🚀 Projects (Engineering in Practice)
-### 🔹 Job Board Platform (Full Stack)
-- Authentication & authorization system  
-- Recruiter & candidate dashboards  
-- Resume upload & job application system  
-- REST API architecture  
-
-### 🔹 Hotel Management System
-- Modular system design  
-- Admin + user interaction  
-- Real-world workflow simulation  
-
----
-*/
-## 📈 Current Focus
-- Advanced DSA (LeetCode / GFG)  
-- Full Stack Development (React + Node.js)  
-- System Design fundamentals  
-
----
 
 ## 📚 Learning Strategy
 - Build → Break → Debug → Optimize  
@@ -89,10 +68,5 @@ Git, GitHub, VS Code, Postman
 ## 🔗 Connect With Me
 - LinkedIn: https://linkedin.com/in/shreyash-bobalade  
 - GitHub: https://github.com/your-username  
-
----
-
-## ⚡ Personal Philosophy
-"Discipline and consistency build engineers. Not shortcuts."
 
 ---

@@ -1,84 +1,26 @@
-# Hi 👋
+# Personal Portfolio
 
-I am Shreyash Bobalade, an Information Technology student focused on building scalable systems and solving real-world problems through efficient code.
+## Table of Contents
+1. [About Me](#about-me)
+2. [Projects](#projects)
+3. [Skills](#skills)
+4. [Contact](#contact)
 
----
+## About Me
+I am a passionate developer with experience in various technologies, looking to contribute to innovative projects.
 
-## 🎯 Career Objective
-To secure a high-impact software engineering role (15+ LPA) by mastering Data Structures, System Design, and Full Stack Development while building production-level projects.
+## Projects
+- **Project 1**: Description of project 1.
+- **Project 2**: Description of project 2.
 
----
+## Skills
+- Programming Languages: Python, JavaScript, C#
+- Frameworks: React, Node.js, Django
+- Tools: Git, Docker, AWS
 
-## 🧠 Engineering Mindset
-- I focus on **problem-solving over syntax**
-- I prefer **building real-world systems** over tutorial projects
-- I believe in **consistency > motivation**
-- I optimize for **long-term skill compounding**
-
----
-
-## 🛠️ Technical Stack
-**Languages:**  
-C, C++, Python, Java  
-
-**Frontend:**  
-HTML, CSS, JavaScript, React  
-
-**Backend:**  
-Node.js, Express.js  
-
-**Database:**  
-MySQL, MongoDB  
-
-**Tools & Platforms:**  
-Git, GitHub, VS Code, Postman  
+## Contact
+Feel free to reach out to me via [email](mailto:your_email@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/your-profile).
 
 ---
 
-## 📊 Core Competencies
-- Data Structures & Algorithms  
-- Object-Oriented Programming  
-- DBMS & SQL  
-- Operating Systems (Basics)  
-- Computer Networks (Basics)  
-
----
-
-## 🧩 Problem Solving Profile
-- Actively solving DSA problems  
-- Focus on patterns: Arrays, Strings, Recursion, Trees, Graphs  
-- Goal: Strong grip on medium → hard level problems  
-
----
-
-## 📈 Current Focus
-- Advanced DSA (LeetCode / GFG)  
-- Full Stack Development (React + Node.js)  
-- System Design fundamentals  
-
----
-
-## 📚 Learning Strategy
-- Build → Break → Debug → Optimize  
-- Focus on **concept clarity + implementation**  
-- Maintain **project-first approach**  
-
----
-
-## 🏆 Achievements
-- 98.67% in CET  
-- 88.32% in JEE Mains  
-- Strong academic consistency  
-
----
-
-## 🔗 Connect With Me
-- LinkedIn: https://linkedin.com/in/shreyash-bobalade  
-- GitHub: https://github.com/your-username  
-
----
-
-## ⚡ Personal Philosophy
-"Discipline and consistency build engineers. Not shortcuts."
-
----
+*Last updated on 2026-04-04 05:19:03 UTC*

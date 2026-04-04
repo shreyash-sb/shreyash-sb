@@ -22,7 +22,7 @@ To secure a high-impact software engineering role (15+ LPA) by mastering Data St
 C, C++, Python, Java  
 
 **Frontend:**  
-HTML, CSS, JavaScript, React  
+HTML, CSS, JavaScript, React, BootStrap
 
 **Backend:**  
 Node.js, Express.js  
@@ -31,7 +31,7 @@ Node.js, Express.js
 MySQL, MongoDB  
 
 **Tools & Platforms:**  
-Git, GitHub, VS Code, Postman  
+Git, GitHub, VS Code
 
 ---
 

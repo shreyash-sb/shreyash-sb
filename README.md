@@ -2,27 +2,26 @@
 
 **Information Technology Student | Software Engineering Aspirant**
 
-I design and build **scalable full-stack systems** with a focus on **performance, clean architecture, and real-world usability**.
+I build **practical, user-focused applications** across web and mobile, with growing expertise in **full-stack development, problem-solving, and system design fundamentals**.
 
 ---
 
 ## 🚀 About Me
 
 * 🎓 IT Engineering @ Walchand College of Engineering, Sangli
-* 💻 Focused on **Full Stack Development + DSA + System Design**
-* ⚙️ Strong interest in building **production-level applications**
-* 📈 Consistent learner with a long-term engineering mindset
-* 🎯 Goal: **15+ LPA Software Engineering Role before final year**
+* 💻 Focused on **Full Stack Development + DSA**
+* ⚙️ Interested in building **real-world usable systems**
+* 📈 Consistent learner improving daily through projects & problem solving
+* 🎯 Goal: **15+ LPA Software Engineering Role**
 
 ---
 
 ## 🧠 Engineering Mindset
 
-* Think in **systems, not just code**
-* Prioritize **scalability, maintainability, and performance**
-* Focus on **real-world problem solving over tutorial projects**
-* Follow the cycle:
-  **Build → Break → Debug → Optimize → Scale**
+* Focus on **clarity and functionality first**
+* Learn by **building real applications**
+* Break problems into **simple, manageable components**
+* Improve through **iteration and debugging**
 
 ---
 
@@ -34,15 +33,15 @@ C, C++, Python, Java
 
 ### 🌐 Frontend
 
-React.js, JavaScript, HTML, CSS, Bootstrap
+HTML, CSS, JavaScript, React
 
 ### ⚙️ Backend
 
-Node.js, Express.js
+Node.js (learning), Basic backend concepts
 
 ### 🗄️ Database
 
-MongoDB, MySQL
+MongoDB, MySQL (basics)
 
 ### 🧰 Tools
 
@@ -50,114 +49,133 @@ Git, GitHub, VS Code
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
-### 🔹 Job Board Platform (Full Stack)
+### 🔹 Food Recipe Web Application
 
-A scalable job portal enabling recruiters and candidates to interact seamlessly.
-
-**Key Features:**
-
-* Secure Authentication & Authorization (JWT)
-* Job posting & application workflow
-* Resume upload system
-* Role-based access control
-
-**Engineering Highlights:**
-
-* Designed RESTful APIs for modular backend
-* Structured scalable backend architecture
-* Implemented secure auth flow & protected routes
-
-🔗 GitHub: https://github.com/your-username/job-board
-🌐 Live: https://your-live-link.com
-
----
-
-### 🔹 Hotel Management System
-
-A complete system to manage hotel operations and customer interactions.
+A web application to explore and view different food recipes.
 
 **Key Features:**
 
-* Room booking workflow
-* Admin dashboard
-* Food advertisement module
-* User interaction system
+* Browse recipes with structured UI
+* Clean and responsive design
+* Simple user-friendly navigation
 
-**Engineering Highlights:**
+**What I Learned:**
 
-* Designed efficient database schema
-* Optimized CRUD operations
-* Focused on clean UI/UX structure
+* Frontend structuring (HTML, CSS, JS)
+* UI layout and responsiveness
+* Handling data display
 
-🔗 GitHub: https://github.com/your-username/hotel-management
+🔗 GitHub: https://github.com/your-username/food-recipe
 
 ---
 
-### 🔹 Student Collaboration Platform
+### 🔹 Smart Expense Tracker (Web)
 
-A platform designed for peer-to-peer academic collaboration.
+A web-based application to track and manage daily expenses.
 
 **Key Features:**
 
-* Real-time messaging system
-* Student interaction platform
-* Lightweight communication architecture
+* Add, delete, and manage expenses
+* Categorization of spending
+* Basic dashboard-style view
 
-**Engineering Highlights:**
+**What I Learned:**
 
-* Implemented client-server communication model
-* Backend handling of concurrent users
-* Intro-level system design thinking
+* DOM manipulation
+* Data handling on frontend
+* Application logic design
 
-🔗 GitHub: https://github.com/your-username/student-platform
-
----
-
-## 🧱 System Design Knowledge
-
-* Understanding of **scalable architectures**
-* Hands-on exposure to:
-
-  * API Design & Rate Limiting
-  * Caching Fundamentals
-  * Load Balancing Concepts
-* Currently exploring:
-
-  * Microservices Architecture
-  * Distributed Systems
+🔗 GitHub: https://github.com/your-username/expense-tracker-web
 
 ---
 
-## 📊 Core Competencies
+### 🔹 Smart Expense Tracker (Android)
 
-* Data Structures & Algorithms
-* Object-Oriented Programming (OOP)
-* DBMS & SQL
-* Operating Systems (Basics)
-* Computer Networks (Basics)
+A mobile version of expense tracking for better accessibility.
+
+**Key Features:**
+
+* Expense tracking on mobile
+* Simple UI for quick input
+* Organized expense view
+
+**What I Learned:**
+
+* Android app development basics
+* UI handling in mobile apps
+* Managing user input efficiently
+
+🔗 GitHub: https://github.com/your-username/expense-tracker-android
+
+---
+
+### 🔹 Slot Booking System (Python)
+
+A command-line based system to manage slot bookings.
+
+**Key Features:**
+
+* Book and manage slots
+* Prevent duplicate bookings
+* Simple logic-based system
+
+**What I Learned:**
+
+* Core Python programming
+* Logic building and condition handling
+* Structuring programs
+
+🔗 GitHub: https://github.com/your-username/slot-booking
+
+---
+
+### 🔹 Personal Portfolio Website
+
+A portfolio to showcase projects and skills.
+
+**Key Features:**
+
+* Responsive design
+* Project showcase section
+* Clean UI
+
+**What I Learned:**
+
+* Personal branding
+* UI/UX basics
+* Deployment basics
+
+🔗 GitHub: https://github.com/your-username/portfolio
+
+---
+
+## 📊 Core Skills
+
+* Data Structures & Algorithms (Learning Phase)
+* Object-Oriented Programming
+* Problem Solving
+* Web Development Basics
 
 ---
 
 ## 🧩 Problem Solving
 
-* Regularly solving DSA problems
-* Focus Areas:
+* Practicing DSA regularly
+* Focus areas:
 
   * Arrays & Strings
-  * Recursion & Backtracking
-  * Trees & Graphs
-
-🎯 Goal: Master **Medium → Hard level problems**
+  * Basic Recursion
+  * Problem-solving logic
 
 ---
 
 ## 📚 Currently Learning
 
-* Advanced DSA (Graphs, Dynamic Programming)
-* System Design Fundamentals
-* Backend Scalability & Optimization
+* React (Advanced concepts)
+* Backend Development (Node.js)
+* Data Structures & Algorithms
 
 ---
 
@@ -165,7 +183,6 @@ A platform designed for peer-to-peer academic collaboration.
 
 * 🥇 98.67% in CET
 * 🥈 88.32% in JEE Mains
-* 📈 Strong academic consistency
 
 ---
 
@@ -186,8 +203,6 @@ A platform designed for peer-to-peer academic collaboration.
 
 ## ⚡ Final Note
 
-I am actively building **scalable, real-world applications** and improving my **problem-solving and system design skills**.
+I am currently focused on **strengthening my fundamentals and building better projects step by step**.
 
-I aim to become an engineer who can **design systems, write efficient code, and deliver impact at scale**.
-
-If you value **ownership, consistency, and engineering thinking**, let’s connect.
+My goal is to evolve into a developer who can **build scalable systems and solve real-world problems efficiently**.

@@ -147,7 +147,7 @@ A portfolio to showcase projects and skills.
 * UI/UX basics
 * Deployment basics
 
-🔗 GitHub: https://github.com/your-username/portfolio
+🔗 GitHub: https://github.com/shreyash-sb/Portfolio.git
 
 ---
 

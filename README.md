@@ -37,11 +37,11 @@ HTML, CSS, JavaScript, React
 
 ### ⚙️ Backend
 
-Node.js (learning), Basic backend concepts
+Node.js, Express.js
 
 ### 🗄️ Database
 
-MongoDB, MySQL (basics)
+MongoDB, MySQL, PostgreSQL
 
 ### 🧰 Tools
 
@@ -157,6 +157,7 @@ A portfolio to showcase projects and skills.
 * Object-Oriented Programming
 * Problem Solving
 * Web Development Basics
+* Computer Fundamentals
 
 ---
 
@@ -181,8 +182,9 @@ A portfolio to showcase projects and skills.
 
 ## 🏆 Achievements
 
-* 🥇 98.67% in CET
-* 🥈 88.32% in JEE Mains
+* 98.67% in CET
+* 88.32% in JEE Mains
+* 8.25/10 CGPA
 
 ---
 
@@ -197,7 +199,7 @@ A portfolio to showcase projects and skills.
 ## 🔗 Connect With Me
 
 * 💼 LinkedIn: https://linkedin.com/in/shreyash-bobalade
-* 💻 GitHub: https://github.com/your-username
+* 💻 GitHub: https://github.com/shreyash-sb
 
 ---
 

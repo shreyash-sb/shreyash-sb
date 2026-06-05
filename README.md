@@ -161,17 +161,6 @@ A portfolio to showcase projects and skills.
 
 ---
 
-## 🧩 Problem Solving
-
-* Practicing DSA regularly
-* Focus areas:
-
-  * Arrays & Strings
-  * Basic Recursion
-  * Problem-solving logic
-
----
-
 ## 🏆 Achievements
 
 * 98.67% in CET

@@ -9,8 +9,8 @@ I build **practical, user-focused applications** across web and mobile, with gro
 ## 🚀 About Me
 
 * 🎓 IT Engineering @ Walchand College of Engineering, Sangli
-* 💻 Focused on **Full Stack Development + DSA**
-* ⚙️ Interested in building **real-world usable systems**
+* 💻 Focused on **Full Stack Development + DSA + Competitive Programming**
+* ⚙️ Interested in building **real-world problem solving Projects**
 * 📈 Consistent learner improving daily through projects & problem solving
 * 🎯 Goal: **15+ LPA Software Engineering Role**
 
@@ -37,7 +37,7 @@ HTML, CSS, JavaScript, React
 
 ### ⚙️ Backend
 
-Node.js, Express.js
+Node.js, Express.js, Spring-Boot
 
 ### 🗄️ Database
 
@@ -151,13 +151,13 @@ A portfolio to showcase projects and skills.
 
 ---
 
-## 📊 Core Skills
+## 🚀 Core Skills
 
-* Data Structures & Algorithms (Learning Phase)
-* Object-Oriented Programming
-* Problem Solving
-* Web Development Basics
-* Computer Fundamentals
+* Computer Science Fundamentals
+* Data Structures & Algorithms (DSA)
+* Problem Solving & Analytical Thinking
+* Object-Oriented Programming (OOP)
+* Frontend & Backend Web Development
 
 ---
 
@@ -172,27 +172,11 @@ A portfolio to showcase projects and skills.
 
 ---
 
-## 📚 Currently Learning
-
-* React (Advanced concepts)
-* Backend Development (Node.js)
-* Data Structures & Algorithms
-
----
-
 ## 🏆 Achievements
 
 * 98.67% in CET
 * 88.32% in JEE Mains
 * 8.25/10 CGPA
-
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username\&show_icons=true\&theme=tokyonight)
-
-![Streak Stats](https://streak-stats.demolab.com?user=your-username\&theme=tokyonight)
 
 ---
 

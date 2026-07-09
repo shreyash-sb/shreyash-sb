@@ -1,183 +1,235 @@
 # ⚡ Shreyash Bobalade
 
-**Information Technology Student | Software Engineering Aspirant**
+**Information Technology Undergraduate | Full-Stack Developer | Software Engineering Aspirant**
 
-I build **practical, user-focused applications** across web and mobile, with growing expertise in **full-stack development, problem-solving, and system design fundamentals**.
+I am an Information Technology student at **Walchand College of Engineering, Sangli**, passionate about building scalable, user-centric applications that solve real-world problems. I enjoy transforming ideas into functional software while continuously strengthening my foundations in **Data Structures & Algorithms, Full-Stack Development, and System Design**.
 
----
-
-## 🚀 About Me
-
-* 🎓 IT Engineering @ Walchand College of Engineering, Sangli
-* 💻 Focused on **Full Stack Development + DSA + Competitive Programming**
-* ⚙️ Interested in building **real-world problem solving Projects**
-* 📈 Consistent learner improving daily through projects & problem solving
-* 🎯 Goal: **15+ LPA Software Engineering Role**
+I believe in learning by building, writing clean and maintainable code, and continuously improving through hands-on projects and problem solving.
 
 ---
 
-## 🧠 Engineering Mindset
+# 🚀 About Me
 
-* Focus on **clarity and functionality first**
-* Learn by **building real applications**
-* Break problems into **simple, manageable components**
-* Improve through **iteration and debugging**
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Languages
-
-C, C++, Python, Java
-
-### 🌐 Frontend
-
-HTML, CSS, JavaScript, React
-
-### ⚙️ Backend
-
-Node.js, Express.js, Spring-Boot
-
-### 🗄️ Database
-
-MongoDB, MySQL, PostgreSQL
-
-### 🧰 Tools
-
-Git, GitHub, VS Code
+* 🎓 B.Tech in Information Technology at **Walchand College of Engineering, Sangli**
+* 💻 Interested in **Software Engineering, Full-Stack Development, and Backend Systems**
+* 📚 Currently improving **DSA, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks**
+* ⚡ Love building practical applications that improve everyday workflows
+* 🎯 Aspiring to become a Software Engineer capable of designing scalable and efficient systems
 
 ---
 
-## 🚀 Projects
+# 💡 Engineering Philosophy
 
-### 🔹 Food Recipe Web Application
+I enjoy breaking complex problems into smaller, manageable components and solving them with simple, efficient, and maintainable solutions.
 
-A web application to explore and view different food recipes.
+My development approach focuses on:
 
-**Key Features:**
-
-* Browse recipes with structured UI
-* Clean and responsive design
-* Simple user-friendly navigation
-
-**What I Learned:**
-
-* Frontend structuring (HTML, CSS, JS)
-* UI layout and responsiveness
-* Handling data display
-
-🔗 GitHub: https://github.com/your-username/food-recipe
+* Writing clean, readable, and reusable code
+* Understanding fundamentals before using frameworks
+* Building projects to reinforce concepts
+* Continuously learning through debugging, iteration, and feedback
+* Prioritizing user experience alongside technical implementation
 
 ---
 
-### 🔹 Smart Expense Tracker (Web)
+# 🛠 Tech Stack
 
-A web-based application to track and manage daily expenses.
+## Programming Languages
 
-**Key Features:**
+* C
+* C++
+* Java
+* Python
+* JavaScript
 
-* Add, delete, and manage expenses
-* Categorization of spending
-* Basic dashboard-style view
+## Frontend Development
 
-**What I Learned:**
+* HTML5
+* CSS3
+* JavaScript (ES6+)
+* React.js
 
-* DOM manipulation
-* Data handling on frontend
-* Application logic design
+## Backend Development
 
-🔗 GitHub: https://github.com/your-username/expense-tracker-web
+* Node.js
+* Express.js
+* Spring Boot
 
----
+## Databases
 
-### 🔹 Smart Expense Tracker (Android)
+* MongoDB
+* MySQL
+* PostgreSQL
 
-A mobile version of expense tracking for better accessibility.
+## Developer Tools
 
-**Key Features:**
-
-* Expense tracking on mobile
-* Simple UI for quick input
-* Organized expense view
-
-**What I Learned:**
-
-* Android app development basics
-* UI handling in mobile apps
-* Managing user input efficiently
-
-🔗 GitHub: https://github.com/your-username/expense-tracker-android
+* Git
+* GitHub
+* VS Code
 
 ---
 
-### 🔹 Slot Booking System (Python)
+# 🚀 Featured Projects
 
-A command-line based system to manage slot bookings.
+## 🍽 Food Recipe Web Application
 
-**Key Features:**
+A responsive web application that enables users to browse and explore a variety of food recipes through a clean and intuitive interface.
 
-* Book and manage slots
-* Prevent duplicate bookings
-* Simple logic-based system
+### Highlights
 
-**What I Learned:**
+* Responsive user interface
+* Organized recipe presentation
+* Smooth navigation experience
 
-* Core Python programming
-* Logic building and condition handling
-* Structuring programs
+### Skills Applied
 
-🔗 GitHub: https://github.com/your-username/slot-booking
+* HTML
+* CSS
+* JavaScript
+* Responsive Web Design
+
+**Repository:**
+https://github.com/your-username/food-recipe
 
 ---
 
-### 🔹 Personal Portfolio Website
+## 💰 Smart Expense Tracker (Web)
 
-A portfolio to showcase projects and skills.
+A web application designed to help users manage daily expenses with categorized spending and a simplified dashboard.
 
-**Key Features:**
+### Highlights
 
-* Responsive design
-* Project showcase section
-* Clean UI
+* Add, edit, and delete expenses
+* Expense categorization
+* Dashboard for spending overview
 
-**What I Learned:**
+### Skills Applied
 
+* JavaScript
+* DOM Manipulation
+* Application Logic
+* UI Design
+
+**Repository:**
+https://github.com/your-username/expense-tracker-web
+
+---
+
+## 📱 Smart Expense Tracker (Android)
+
+An Android application that provides users with a simple and convenient way to record and organize daily expenses.
+
+### Highlights
+
+* Mobile-friendly expense management
+* Simple and intuitive user interface
+* Organized expense records
+
+### Skills Applied
+
+* Android Development
+* UI Design
+* User Input Handling
+
+**Repository:**
+https://github.com/your-username/expense-tracker-android
+
+---
+
+## 🗓 Slot Booking System
+
+A Python-based command-line application that manages booking slots while preventing duplicate reservations.
+
+### Highlights
+
+* Slot booking management
+* Duplicate booking validation
+* Structured program flow
+
+### Skills Applied
+
+* Python
+* Conditional Logic
+* Problem Solving
+* Data Management
+
+**Repository:**
+https://github.com/your-username/slot-booking
+
+---
+
+## 🌐 Personal Portfolio Website
+
+A responsive portfolio website showcasing my projects, technical skills, and achievements.
+
+### Highlights
+
+* Modern responsive interface
+* Project showcase
 * Personal branding
-* UI/UX basics
-* Deployment basics
 
-🔗 GitHub: https://github.com/shreyash-sb/Portfolio.git
+### Skills Applied
+
+* HTML
+* CSS
+* JavaScript
+* Responsive Design
+
+**Repository:**
+https://github.com/shreyash-sb/Portfolio
 
 ---
 
-## 🚀 Core Skills
+# 💼 Core Competencies
 
-* Computer Science Fundamentals
-* Data Structures & Algorithms (DSA)
-* Problem Solving & Analytical Thinking
+* Data Structures & Algorithms
 * Object-Oriented Programming (OOP)
-* Frontend & Backend Web Development
+* Full-Stack Web Development
+* Problem Solving & Analytical Thinking
+* Database Design
+* Software Development Fundamentals
+* Version Control using Git & GitHub
+* REST API Development
 
 ---
 
-## 🏆 Achievements
+# 🏆 Academic Achievements
 
-* 98.67% in CET
-* 88.32% in JEE Mains
-* 8.25/10 CGPA
-
----
-
-## 🔗 Connect With Me
-
-* 💼 LinkedIn: https://linkedin.com/in/shreyash-bobalade
-* 💻 GitHub: https://github.com/shreyash-sb
+* 🎖 Maharashtra CET Percentile: **98.67**
+* 🎖 JEE Main Percentile: **88.32**
+* 🎓 Current CGPA: **8.25 / 10**
 
 ---
 
-## ⚡ Final Note
+# 📚 Currently Learning
 
-I am currently focused on **strengthening my fundamentals and building better projects step by step**.
+* Advanced Data Structures & Algorithms
+* System Design Fundamentals
+* Spring Boot & Backend Development
+* Database Optimization
+* Software Design Patterns
+* Cloud & Deployment Fundamentals
 
-My goal is to evolve into a developer who can **build scalable systems and solve real-world problems efficiently**.
+---
+
+# 🌱 Beyond Coding
+
+Outside academics, I enjoy exploring new technologies, improving my problem-solving abilities through coding challenges, and building projects that strengthen my software engineering skills.
+
+I believe that consistency, curiosity, and continuous learning are the key ingredients of becoming a great engineer.
+
+---
+
+# 📫 Connect With Me
+
+**LinkedIn**
+https://linkedin.com/in/shreyash-bobalade
+
+**GitHub**
+https://github.com/shreyash-sb
+
+---
+
+# 🎯 Career Objective
+
+I am actively seeking opportunities to apply my technical skills, collaborate with experienced engineers, and contribute to impactful software products. My long-term goal is to become a Software Engineer who designs scalable, reliable, and high-performance systems while continuously learning and growing with the evolving technology landscape.

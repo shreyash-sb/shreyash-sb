@@ -13,7 +13,6 @@ I believe in learning by building, writing clean and maintainable code, and cont
 * 🎓 B.Tech in Information Technology at **Walchand College of Engineering, Sangli**
 * 💻 Interested in **Software Engineering, Full-Stack Development, and Backend Systems**
 * 📚 Currently improving **DSA, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks**
-* ⚡ Love building practical applications that improve everyday workflows
 * 🎯 Aspiring to become a Software Engineer capable of designing scalable and efficient systems
 
 ---
@@ -66,6 +65,7 @@ My development approach focuses on:
 * Git
 * GitHub
 * VS Code
+* Android Studio
 
 ---
 

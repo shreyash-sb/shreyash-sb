@@ -1,18 +1,16 @@
 # ⚡ Shreyash Bobalade
 
-**Information Technology Undergraduate | Full-Stack Developer | Software Engineering Aspirant**
+**Information Technology Undergraduate | Full-Stack Developer | Software Engineer**
 
 I am an Information Technology student at **Walchand College of Engineering, Sangli**, passionate about building scalable, user-centric applications that solve real-world problems. I enjoy transforming ideas into functional software while continuously strengthening my foundations in **Data Structures & Algorithms, Full-Stack Development, and System Design**.
-
-I believe in learning by building, writing clean and maintainable code, and continuously improving through hands-on projects and problem solving.
 
 ---
 
 # 🚀 About Me
 
 * 🎓 B.Tech in Information Technology at **Walchand College of Engineering, Sangli**
-* 💻 Interested in **Software Engineering, Full-Stack Development, and Backend Systems**
-* 📚 Currently improving **DSA, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks**
+* 💻 Interested in **Full-Stack Development, Computer Fundamentals and Software Engineering**
+* 📚 Currently pursuing **B.Tech Third Year**
 * 🎯 Aspiring to become a Software Engineer capable of designing scalable and efficient systems
 
 ---

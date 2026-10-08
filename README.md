@@ -1,180 +1,68 @@
-# ⚡ Shreyash Bobalade
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30&height=180&section=header&text=Shreyash%20Bobalade&fontSize=50&fontColor=fff&fontAlignY=38&desc=Information%20Technology%20Undergraduate%20|%20Full-Stack%20Developer&descSize=16&descAlignY=65" width="100%" />
+</div>
 
-**Information Technology Undergraduate | Full-Stack Developer | Software Engineer**
-
-I am an Information Technology student at **Walchand College of Engineering, Sangli**, passionate about building scalable, user-centric applications that solve real-world problems. I enjoy transforming ideas into functional software while continuously strengthening my foundations in **Data Structures & Algorithms, Full-Stack Development, and System Design**.
+<p align="center">
+  <a href="https://linkedin.com/in/shreyash-bobalade"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/shreyash-sb"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/College-Walchand%20College%20of%20Engineering%2C%20Sangli-blue?style=for-the-badge&logo=academia&logoColor=white" />
+</p>
 
 ---
 
 # 🚀 About Me
 
-* 🎓 B.Tech in Information Technology at **Walchand College of Engineering, Sangli**
-* 💻 Interested in **Full-Stack Development, Computer Fundamentals and Software Engineering**
-* 📚 Currently pursuing **B.Tech Third Year**
-* 🎯 Aspiring to become a Software Engineer capable of designing scalable and efficient systems
+* 🎓 **B.Tech Third-Year Student** in Information Technology at **Walchand College of Engineering, Sangli**.
+* 💻 Passionate about **Full-Stack Web Development, Data Structures & Algorithms, and System Architecture**.
+* 🎯 Aspiring Software Engineer focused on building robust, scalable, and high-performance real-world applications.
 
 ---
 
 # 💡 Engineering Philosophy
 
-I enjoy breaking complex problems into smaller, manageable components and solving them with simple, efficient, and maintainable solutions.
+I enjoy breaking complex problems into modular, maintainable components and designing clean architectural workflows.
 
 My development approach focuses on:
-
-* Writing clean, readable, and reusable code
-* Understanding fundamentals before using frameworks
-* Building projects to reinforce concepts
-* Continuously learning through debugging, iteration, and feedback
-* Prioritizing user experience alongside technical implementation
+* Writing clean, readable, and scalable code
+* Understanding computer science fundamentals before relying on frameworks
+* Architecting end-to-end solutions to reinforce concepts
+* Prioritizing user experience alongside secure backend implementation
 
 ---
 
 # 🛠 Tech Stack
 
-## Programming Languages
-
-* C
-* C++
-* Java
-* Python
-* JavaScript
-
-## Frontend Development
-
-* HTML5
-* CSS3
-* JavaScript (ES6+)
-* React.js
-
-## Backend Development
-
-* Node.js
-* Express.js
-* Spring Boot
-
-## Databases
-
-* MongoDB
-* MySQL
-* PostgreSQL
-
-## Developer Tools
-
-* Git
-* GitHub
-* VS Code
-* Android Studio
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **Languages** | C, C++, Java, Python, JavaScript (ES6+) |
+| **Frontend** | HTML5, CSS3, React.js, Tailwind CSS, Vite |
+| **Backend** | Node.js, Express.js, Spring Boot, REST APIs, JWT, Multer |
+| **Databases** | MongoDB, MySQL, PostgreSQL, MongoDB Atlas |
+| **Tools & Cloud** | Git, GitHub, VS Code, Android Studio, Render, Vercel, Cloudinary |
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Featured Projects & Systems
 
-## 🍽 Food Recipe Web Application
-
-A responsive web application that enables users to browse and explore a variety of food recipes through a clean and intuitive interface.
-
-### Highlights
-
-* Responsive user interface
-* Organized recipe presentation
-* Smooth navigation experience
-
-### Skills Applied
-
-* HTML
-* CSS
-* JavaScript
-* Responsive Web Design
-
-**Repository:**
-https://github.com/your-username/food-recipe
-
----
-
-## 💰 Smart Expense Tracker (Web)
-
-A web application designed to help users manage daily expenses with categorized spending and a simplified dashboard.
-
-### Highlights
-
-* Add, edit, and delete expenses
-* Expense categorization
-* Dashboard for spending overview
-
-### Skills Applied
-
-* JavaScript
-* DOM Manipulation
-* Application Logic
-* UI Design
-
-**Repository:**
-https://github.com/your-username/expense-tracker-web
-
----
-
-## 📱 Smart Expense Tracker (Android)
-
-An Android application that provides users with a simple and convenient way to record and organize daily expenses.
-
-### Highlights
-
-* Mobile-friendly expense management
-* Simple and intuitive user interface
-* Organized expense records
-
-### Skills Applied
-
-* Android Development
-* UI Design
-* User Input Handling
-
-**Repository:**
-https://github.com/your-username/expense-tracker-android
-
----
-
-## 🗓 Slot Booking System
-
-A Python-based command-line application that manages booking slots while preventing duplicate reservations.
-
-### Highlights
-
-* Slot booking management
-* Duplicate booking validation
-* Structured program flow
-
-### Skills Applied
-
-* Python
-* Conditional Logic
-* Problem Solving
-* Data Management
-
-**Repository:**
-https://github.com/your-username/slot-booking
-
----
+## 🏥 Prescripto — Full-Stack Healthcare Platform
+* **Overview:** A production-grade MERN stack healthcare web application engineered for online doctor discovery, multi-specialty filtering, real-time appointment scheduling, and secure user administration.
+* **Architecture & Highlights:** 
+  * Implemented secure token-based authentication using **JWT** and **Bcrypt**.
+  * Integrated **Cloudinary** and **Multer** for dynamic media uploads and practitioner profile management.
+  * Deployed full-stack services leveraging **Render** and **MongoDB Atlas** with optimized cloud network permissions.
+* **Tech Stack:** MongoDB, Express.js, React.js, Node.js, Tailwind CSS, JWT, Cloudinary, Multer
 
 ## 🌐 Personal Portfolio Website
+* **Overview:** A responsive, modern personal developer portfolio built to showcase technical proficiencies, academic projects, and milestones with seamless UI interactions.
+* **Tech Stack:** HTML5, CSS3, JavaScript, Responsive Web Design
 
-A responsive portfolio website showcasing my projects, technical skills, and achievements.
+## 💰 Smart Expense Tracker (Web & Android)
+* **Overview:** Dual-platform expense monitoring solutions designed to handle daily expenditures, item categorization, and structured analytics dashboards.
+* **Tech Stack:** JavaScript, DOM Manipulation, Android Development, UI Architecture
 
-### Highlights
-
-* Modern responsive interface
-* Project showcase
-* Personal branding
-
-### Skills Applied
-
-* HTML
-* CSS
-* JavaScript
-* Responsive Design
-
-**Repository:**
-https://github.com/shreyash-sb/Portfolio
+## 🗓 Slot Booking System
+* **Overview:** A backend-driven algorithmic booking manager designed to handle race conditions, validate duplicate reservations, and maintain structured data states.
+* **Tech Stack:** Python, Object-Oriented Programming, Structured Data Management
 
 ---
 
@@ -182,12 +70,10 @@ https://github.com/shreyash-sb/Portfolio
 
 * Data Structures & Algorithms
 * Object-Oriented Programming (OOP)
-* Full-Stack Web Development
-* Problem Solving & Analytical Thinking
-* Database Design
-* Software Development Fundamentals
+* Full-Stack Web Architecture & Design Patterns
+* Database Schema Design & Cloud Optimization
+* RESTful API Development & Security
 * Version Control using Git & GitHub
-* REST API Development
 
 ---
 
@@ -199,35 +85,37 @@ https://github.com/shreyash-sb/Portfolio
 
 ---
 
-# 📚 Currently Learning
+# 📚 Currently Learning & Exploring
 
 * Advanced Data Structures & Algorithms
-* System Design Fundamentals
-* Spring Boot & Backend Development
-* Database Optimization
-* Software Design Patterns
-* Cloud & Deployment Fundamentals
+* System Design & Microservices Architecture
+* Enterprise Backend Development with Spring Boot
+* Database Optimization and Distributed Systems
 
 ---
 
 # 🌱 Beyond Coding
 
-Outside academics, I enjoy exploring new technologies, improving my problem-solving abilities through coding challenges, and building projects that strengthen my software engineering skills.
+Outside academics, I enjoy exploring new engineering paradigms, strengthening problem-solving skills through data structure challenges, and architecting systems that bridge software theory with practical execution.
 
-I believe that consistency, curiosity, and continuous learning are the key ingredients of becoming a great engineer.
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shreyash-sb&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" alt="Shreyash's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyash-sb&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+</p>
 
 ---
 
 # 📫 Connect With Me
 
-**LinkedIn**
-https://linkedin.com/in/shreyash-bobalade
-
-**GitHub**
-https://github.com/shreyash-sb
+* **LinkedIn:** [shreyash-bobalade](https://linkedin.com/in/shreyash-bobalade)
+* **GitHub:** [@shreyash-sb](https://github.com/shreyash-sb)
 
 ---
 
 # 🎯 Career Objective
 
-I am actively seeking opportunities to apply my technical skills, collaborate with experienced engineers, and contribute to impactful software products. My long-term goal is to become a Software Engineer who designs scalable, reliable, and high-performance systems while continuously learning and growing with the evolving technology landscape.
+I am actively seeking opportunities to apply my technical background, collaborate with top-tier engineering teams, and contribute to impactful software ecosystems. My long-term goal is to evolve into an elite Software Engineer capable of designing scalable, resilient, and high-availability systems.

@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:0077B5,100:181717&height=220&section=header&text=Shreyash%20Bobalade&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20•%20Full-Stack%20Developer%20•%20Systems%20%26%20AI&descSize=16&descAlignY=62" width="100%" alt="Shreyash Bobalade Banner" />
+<img src="https://socialify.git.ci/shreyash-sb/shreyash-sb/image?description=1&descriptionEditable=Software%20Engineer%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20Systems%20%26%20AI&font=Inter&name=1&owner=0&pattern=Circuit%20Board&theme=Dark" width="100%" alt="Shreyash Bobalade Banner" />
 
-<br />
+<br /><br />
 
 <p align="center">
   <a href="https://portfolio-eight-navy-71.vercel.app/"><img src="https://img.shields.io/badge/Live_Portfolio-00F0FF?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio" /></a>

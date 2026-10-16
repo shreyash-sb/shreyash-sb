@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b0c10,40:1f2833,70:002b49,100:00F0FF&height=200&section=header&text=SHREYASH%20BOBALADE&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=SOFTWARE%20ENGINEER%20%20%7C%20%20FULL-STACK%20%20%7C%20%20SYSTEMS%20%26%20AI&descSize=14&descAlignY=64" width="100%" alt="Shreyash Bobalade Banner" />
+# ⚡ SHREYASH BOBALADE
+### Software Engineer • Full-Stack Developer • Systems & AI Enthusiast
+**B.Tech in Information Technology (2024 – 2028) | Walchand College of Engineering, Sangli**
 
-<br /><br />
+<br />
 
 <p align="center">
   <a href="https://portfolio-eight-navy-71.vercel.app/"><img src="https://img.shields.io/badge/Live_Portfolio-00F0FF?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio" /></a>

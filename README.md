@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://socialify.git.ci/shreyash-sb/shreyash-sb/image?description=1&descriptionEditable=Software%20Engineer%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20Systems%20%26%20AI&font=Inter&name=1&owner=0&pattern=Circuit%20Board&theme=Dark" width="100%" alt="Shreyash Bobalade Banner" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b0c10,40:1f2833,70:002b49,100:00F0FF&height=200&section=header&text=SHREYASH%20BOBALADE&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=SOFTWARE%20ENGINEER%20%20%7C%20%20FULL-STACK%20%20%7C%20%20SYSTEMS%20%26%20AI&descSize=14&descAlignY=64" width="100%" alt="Shreyash Bobalade Banner" />
 
 <br /><br />
 

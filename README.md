@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30&height=190&section=header&text=Shreyash%20Bobalade&fontSize=48&fontColor=fff&fontAlignY=38&desc=Software%20Engineer%20•%20Full-Stack%20Developer%20•%20Systems%20%26%20AI%20Enthusiast&descSize=16&descAlignY=64" width="100%" alt="Header" />
-</div>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Shreyash%20Bobalade&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20AI%20%26%20Systems&descSize=16&descAlignY=64" width="100%" alt="Shreyash Bobalade Banner" />
 
-<div align="center">
+  <br />
 
 [![Portfolio](https://img.shields.io/badge/Live_Portfolio-00F0FF?style=for-the-badge&logo=vercel&logoColor=black)](https://portfolio-eight-navy-71.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreyash-bobalade)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shreyash-sb)
 [![LeetCode](https://img.shields.io/badge/LeetCode-300+_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Shreyash1_6/)
 [![CodeChef](https://img.shields.io/badge/CodeChef-2★_Rated-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/shreyash_61)
 [![Email](https://img.shields.io/badge/Email-shreyashbobalade2006@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shreyashbobalade2006@gmail.com)
@@ -42,7 +42,7 @@
 
 | Project | Tech Stack | Highlights | Links |
 | :--- | :--- | :--- | :---: |
-| **Prescripto** | `React` `Node.js` `Express` `MongoDB` `Gemini AI` | Full-stack healthcare portal with role-based access (Patient/Doctor/Admin), automated appointment scheduling, prescription tracking, and AI medical triage. | [Live](https://prescripto-health.vercel.app/) • [Code](https://github.com/shreyash-sb/prescripto) |
+| **Prescripto** | `React` `Node.js` `Express` `MongoDB` `Gemini AI` | Full-stack healthcare portal with role-based access (Patient/Doctor/Admin), automated appointment scheduling, prescription tracking, and AI medical triage. | [Code](https://github.com/shreyash-sb/prescripto) |
 | **APIForge** | `TypeScript` `React` `Node.js` `Express` `LLM APIs` | Automated API testing suite featuring dynamic mock endpoint generation, synthetic test payload creation, and strict real-time schema validation. | [Code](https://github.com/shreyash-sb/APIForge) |
 | **HexoAI** | `Node.js` `Google Gemini API` `Agentic Workflows` | Autonomous multi-turn AI agent framework executing recursive task decomposition, external tool calling, and self-healing error recovery. | [Code](https://github.com/shreyash-sb/HexoAI) |
 | **DevForge** | `React` `Node.js` `Express` `MongoDB` | Custom version control platform simulating Git semantics, cryptographic SHA commit hashing, and directional acyclic graph (DAG) commit trees. | [Code](https://github.com/shreyash-sb/DevForge) |
@@ -75,12 +75,3 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreyash-sb&theme=radical&hide_border=true&background=0d1117" alt="GitHub Streak" />
 </div>
-
----
-
-### 📬 Connect With Me
-
-- 🌐 **Live Portfolio:** [portfolio-eight-navy-71.vercel.app](https://portfolio-eight-navy-71.vercel.app/)
-- 💼 **LinkedIn:** [linkedin.com/in/shreyash-bobalade](https://www.linkedin.com/in/shreyash-bobalade)
-- 🐙 **GitHub:** [@shreyash-sb](https://github.com/shreyash-sb)
-- ✉️ **Email:** [shreyashbobalade2006@gmail.com](mailto:shreyashbobalade2006@gmail.com)

@@ -1,16 +1,8 @@
 <div align="center">
 
-# ⚡ Shreyash Bobalade
-### Software Engineer • Full-Stack Developer • Systems & AI Enthusiast
-**B.Tech in Information Technology (2024 – 2028) | Walchand College of Engineering, Sangli**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:0077B5,100:181717&height=220&section=header&text=Shreyash%20Bobalade&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20•%20Full-Stack%20Developer%20•%20Systems%20%26%20AI&descSize=16&descAlignY=62" width="100%" alt="Shreyash Bobalade Banner" />
 
 <br />
-
-<a href="https://portfolio-eight-navy-71.vercel.app/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=580&lines=Full-Stack+Architect+%7C+MERN+%26+Next.js;Building+Autonomous+AI+Agents+%26+Systems;300%2B+DSA+Problems+Solved;Exploring+Distributed+Systems+%26+Cloud" alt="Typing SVG" />
-</a>
-
-<br /><br />
 
 <p align="center">
   <a href="https://portfolio-eight-navy-71.vercel.app/"><img src="https://img.shields.io/badge/Live_Portfolio-00F0FF?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio" /></a>
@@ -27,8 +19,6 @@
 
 ### 🚀 About Me
 
-> Engineering performant full-stack ecosystems, agentic AI workflows, and distributed backends with a strong foundation in computer science core principles.
-
 - 🎓 **Undergraduate:** 3rd-Year B.Tech in Information Technology at **Walchand College of Engineering, Sangli**.
 - 📈 **Academic Record:** **7.69 / 10.0 CGPA** | **98.67 %ile** in MHT-CET | **88.32 %ile** in JEE Main.
 - ⚡ **Problem Solving:** **300+ Problems Solved** across LeetCode & **2★ Rated** on CodeChef.
@@ -39,87 +29,27 @@
 
 ### 🛠️ Technical Arsenal
 
-<div align="center">
-
-| Domain | Stack & Tooling |
+| Category | Technologies & Tools |
 | :--- | :--- |
-| **Languages** | <img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,ts,postgres" /> |
-| **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,vite" /> |
-| **Backend & APIs** | <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,postman" /> |
-| **Databases** | <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase" /> |
-| **Cloud & DevOps** | <img src="https://skillicons.dev/icons?i=aws,docker,linux,redhat,git,github,vercel" /> |
+| **Languages** | `C` `C++` `Java` `Python` `JavaScript (ES6+)` `TypeScript` `SQL` |
+| **Frontend** | `React.js` `Next.js` `Tailwind CSS` `HTML5` `CSS3` `Vite` |
+| **Backend & APIs** | `Node.js` `Express.js` `FastAPI` `Django` `RESTful APIs` `JWT Auth` `WebSockets` |
+| **Databases** | `MongoDB` `PostgreSQL` `MySQL` `Firebase` |
 | **AI / ML & Vision** | `Google Gemini API` `OpenCV DNN` `TensorFlow` `CNNs` `NumPy` `Pandas` |
+| **Cloud & DevOps** | `AWS (EC2, S3, IAM)` `Docker` `Linux / Red Hat` `Git` `GitHub Actions` `Vercel` `Render` |
 | **Core CS** | `Data Structures & Algorithms` `OOP` `DBMS (ACID)` `OS` `Computer Networks` |
-
-</div>
 
 ---
 
-### 🌟 Featured Systems
+### 🌟 Featured Projects
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🏥 <a href="https://github.com/shreyash-sb/prescripto">Prescripto</a></h3>
-      <p><b>Full-Stack Healthcare & AI Triage Platform</b></p>
-      <ul>
-        <li>Role-based access control (Patient, Doctor, Admin).</li>
-        <li>Automated appointment booking and digital prescription management.</li>
-        <li>Integrated Gemini AI assistant for preliminary symptom evaluation.</li>
-      </ul>
-      <p><code>React</code> <code>Node.js</code> <code>Express</code> <code>MongoDB</code> <code>Gemini AI</code></p>
-      <a href="https://github.com/shreyash-sb/prescripto"><b>View Repository →</b></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>⚡ <a href="https://github.com/shreyash-sb/APIForge">APIForge</a></h3>
-      <p><b>AI-Powered API Testing & Mock Generation</b></p>
-      <ul>
-        <li>Dynamic endpoint mocking and synthetic payload generation.</li>
-        <li>Automated schema contract testing and edge-case assertion.</li>
-        <li>Real-time response validation powered by LLM agents.</li>
-      </ul>
-      <p><code>TypeScript</code> <code>React</code> <code>Node.js</code> <code>Express</code> <code>LLM APIs</code></p>
-      <a href="https://github.com/shreyash-sb/APIForge"><b>View Repository →</b></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🤖 <a href="https://github.com/shreyash-sb/HexoAI">HexoAI</a></h3>
-      <p><b>Autonomous Tool-Augmented AI Agent Framework</b></p>
-      <ul>
-        <li>Recursive multi-step planning and dynamic external tool calling.</li>
-        <li>Self-correcting execution loop with fallback recovery states.</li>
-        <li>Context-window optimization across multi-turn sessions.</li>
-      </ul>
-      <p><code>Node.js</code> <code>Google Gemini API</code> <code>Agentic Workflows</code></p>
-      <a href="https://github.com/shreyash-sb/HexoAI"><b>View Repository →</b></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🌿 <a href="https://github.com/shreyash-sb/DevForge">DevForge</a></h3>
-      <p><b>VCS Engine & Distributed Commit Architecture</b></p>
-      <ul>
-        <li>Git internal simulation with cryptographic SHA-1 commit hashing.</li>
-        <li>Directed Acyclic Graph (DAG) commit trees and branch pointers.</li>
-        <li>Staging tree indexing, diff parsing, and conflict state resolution.</li>
-      </ul>
-      <p><code>React</code> <code>Node.js</code> <code>Express</code> <code>MongoDB</code></p>
-      <a href="https://github.com/shreyash-sb/DevForge"><b>View Repository →</b></a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <h3>🎥 <a href="https://github.com/shreyash-sb/Streamly">Streamly</a></h3>
-      <p><b>Low-Latency WebRTC Video & Collaboration Engine</b></p>
-      <ul>
-        <li>Mesh network peer-to-peer real-time audio/video streaming.</li>
-        <li>Custom WebSocket signaling server for session negotiation (SDP/ICE).</li>
-        <li>Dynamic screen-sharing and multi-participant communication channels.</li>
-      </ul>
-      <p><code>React</code> <code>WebRTC</code> <code>WebSockets</code> <code>Node.js</code></p>
-      <a href="https://github.com/shreyash-sb/Streamly"><b>View Repository →</b></a>
-    </td>
-  </tr>
-</table>
+| Project | Stack & Architecture | Highlights | Repository |
+| :--- | :--- | :--- | :---: |
+| **Prescripto** | `React` `Node.js` `Express` `MongoDB` `Gemini AI` | Full-stack healthcare portal with role-based access control (Patient, Doctor, Admin), automated appointment booking, prescription tracking, and AI medical triage. | [View Code](https://github.com/shreyash-sb/prescripto) |
+| **APIForge** | `TypeScript` `React` `Node.js` `Express` `LLM APIs` | Automated API testing platform featuring dynamic mock endpoint generation, synthetic test payload creation, and real-time schema validation. | [View Code](https://github.com/shreyash-sb/APIForge) |
+| **HexoAI** | `Node.js` `Google Gemini API` `Agentic Workflows` | Autonomous multi-turn AI agent framework executing recursive task decomposition, external tool invocation, and dynamic error recovery. | [View Code](https://github.com/shreyash-sb/HexoAI) |
+| **DevForge** | `React` `Node.js` `Express` `MongoDB` | Custom version control platform simulating Git internals, cryptographic SHA commit hashing, and directed acyclic graph (DAG) commit trees. | [View Code](https://github.com/shreyash-sb/DevForge) |
+| **Streamly** | `React` `WebRTC` `WebSockets` `Node.js` | Low-latency peer-to-peer video conferencing and screen-sharing application powered by a custom signaling server. | [View Code](https://github.com/shreyash-sb/Streamly) |
 
 ---
 

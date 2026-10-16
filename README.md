@@ -70,13 +70,3 @@
 - 🛡️ **Red Hat Certified:** Core foundation in Linux enterprise systems, bash scripting, and administration.
 
 ---
-
-### 📈 GitHub Overview
-
-| Metric | Snapshot |
-| :--- | :--- |
-| **Profile Handle** | [@shreyash-sb](https://github.com/shreyash-sb) |
-| **Primary Languages** | JavaScript, TypeScript, Java, C++, Python |
-| **Repositories** | Public repositories spanning Full-Stack, AI Agents & Computer Vision |
-| **Core Ecosystem** | MERN Stack, Next.js, Gemini API, WebRTC, Docker, AWS |
-| **Contribution Rhythm** | Regular commits across production-grade apps, open-source work & CP solutions |

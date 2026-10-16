@@ -6,6 +6,12 @@
 
 <br />
 
+<a href="https://portfolio-eight-navy-71.vercel.app/">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=550&lines=Full-Stack+Architect+%7C+MERN+%26+Next.js;Building+Autonomous+AI+Agents+%26+Systems;300%2B+DSA+Problems+Solved;Exploring+Distributed+Systems+%26+Cloud" alt="Typing SVG" />
+</a>
+
+<br /><br />
+
 [![Portfolio](https://img.shields.io/badge/Live_Portfolio-00F0FF?style=for-the-badge&logo=vercel&logoColor=black)](https://portfolio-eight-navy-71.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreyash-bobalade)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shreyash-sb)
@@ -66,6 +72,13 @@
 ### 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=shreyash-sb&show_icons=true&theme=tokyonight&hide_border=true" alt="Shreyash's GitHub Stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shreyash-sb&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shreyash-sb&theme=tokyonight" alt="GitHub Profile Details" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shreyash-sb&theme=tokyonight" alt="Top Languages" width="49%" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shreyash-sb&theme=tokyonight" alt="Activity Stats" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shreyash-sb&theme=tokyonight" alt="Productive Time" width="49%" />
 </div>

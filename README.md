@@ -71,23 +71,12 @@
 
 ---
 
-### 📈 GitHub Analytics
+### 📈 GitHub Overview
 
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shreyash-sb&theme=tokyonight" alt="GitHub Profile Details" height="165" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shreyash-sb&theme=tokyonight" alt="Top Languages" height="165" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shreyash-sb&theme=tokyonight" alt="Activity Stats" height="165" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shreyash-sb&theme=tokyonight" alt="Productive Time" height="165" />
-    </td>
-  </tr>
-</table>
+| Metric | Snapshot |
+| :--- | :--- |
+| **Profile Handle** | [@shreyash-sb](https://github.com/shreyash-sb) |
+| **Primary Languages** | JavaScript, TypeScript, Java, C++, Python |
+| **Repositories** | Public repositories spanning Full-Stack, AI Agents & Computer Vision |
+| **Core Ecosystem** | MERN Stack, Next.js, Gemini API, WebRTC, Docker, AWS |
+| **Contribution Rhythm** | Regular commits across production-grade apps, open-source work & CP solutions |

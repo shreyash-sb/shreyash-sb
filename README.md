@@ -7,17 +7,19 @@
 <br />
 
 <a href="https://portfolio-eight-navy-71.vercel.app/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=550&lines=Full-Stack+Architect+%7C+MERN+%26+Next.js;Building+Autonomous+AI+Agents+%26+Systems;300%2B+DSA+Problems+Solved;Exploring+Distributed+Systems+%26+Cloud" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=580&lines=Full-Stack+Architect+%7C+MERN+%26+Next.js;Building+Autonomous+AI+Agents+%26+Systems;300%2B+DSA+Problems+Solved;Exploring+Distributed+Systems+%26+Cloud" alt="Typing SVG" />
 </a>
 
 <br /><br />
 
-[![Portfolio](https://img.shields.io/badge/Live_Portfolio-00F0FF?style=for-the-badge&logo=vercel&logoColor=black)](https://portfolio-eight-navy-71.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreyash-bobalade)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shreyash-sb)
-[![LeetCode](https://img.shields.io/badge/LeetCode-300+_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Shreyash1_6/)
-[![CodeChef](https://img.shields.io/badge/CodeChef-2★_Rated-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/shreyash_61)
-[![Email](https://img.shields.io/badge/Email-shreyashbobalade2006@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shreyashbobalade2006@gmail.com)
+<p align="center">
+  <a href="https://portfolio-eight-navy-71.vercel.app/"><img src="https://img.shields.io/badge/Live_Portfolio-00F0FF?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/shreyash-bobalade"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/shreyash-sb"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://leetcode.com/u/Shreyash1_6/"><img src="https://img.shields.io/badge/LeetCode-300+_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
+  <a href="https://www.codechef.com/users/shreyash_61"><img src="https://img.shields.io/badge/CodeChef-2★_Rated-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>
+  <a href="mailto:shreyashbobalade2006@gmail.com"><img src="https://img.shields.io/badge/Email-Get_in_Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
 </div>
 
@@ -49,13 +51,13 @@
 
 ### 🌟 Featured Projects
 
-| Project | Tech Stack | Highlights | Links |
+| Project | Stack & Architecture | Highlights | Repository |
 | :--- | :--- | :--- | :---: |
-| **Prescripto** | `React` `Node.js` `Express` `MongoDB` `Gemini AI` | Full-stack healthcare portal with role-based access control (Patient, Doctor, Admin), automated appointment booking, prescription tracking, and AI medical triage. | [Code](https://github.com/shreyash-sb/prescripto) |
-| **APIForge** | `TypeScript` `React` `Node.js` `Express` `LLM APIs` | Automated API testing platform featuring dynamic mock endpoint generation, synthetic test payload creation, and real-time schema validation. | [Code](https://github.com/shreyash-sb/APIForge) |
-| **HexoAI** | `Node.js` `Google Gemini API` `Agentic Workflows` | Autonomous multi-turn AI agent framework executing recursive task decomposition, external tool invocation, and dynamic error recovery. | [Code](https://github.com/shreyash-sb/HexoAI) |
-| **DevForge** | `React` `Node.js` `Express` `MongoDB` | Custom version control platform simulating Git internals, cryptographic SHA commit hashing, and directed acyclic graph (DAG) commit trees. | [Code](https://github.com/shreyash-sb/DevForge) |
-| **Streamly** | `React` `WebRTC` `WebSockets` `Node.js` | Low-latency peer-to-peer video conferencing and screen-sharing application powered by a custom signaling server. | [Code](https://github.com/shreyash-sb/Streamly) |
+| **Prescripto** | `React` `Node.js` `Express` `MongoDB` `Gemini AI` | Full-stack healthcare portal with role-based access control (Patient, Doctor, Admin), automated appointment booking, prescription tracking, and AI medical triage. | [View Code](https://github.com/shreyash-sb/prescripto) |
+| **APIForge** | `TypeScript` `React` `Node.js` `Express` `LLM APIs` | Automated API testing platform featuring dynamic mock endpoint generation, synthetic test payload creation, and real-time schema validation. | [View Code](https://github.com/shreyash-sb/APIForge) |
+| **HexoAI** | `Node.js` `Google Gemini API` `Agentic Workflows` | Autonomous multi-turn AI agent framework executing recursive task decomposition, external tool invocation, and dynamic error recovery. | [View Code](https://github.com/shreyash-sb/HexoAI) |
+| **DevForge** | `React` `Node.js` `Express` `MongoDB` | Custom version control platform simulating Git internals, cryptographic SHA commit hashing, and directed acyclic graph (DAG) commit trees. | [View Code](https://github.com/shreyash-sb/DevForge) |
+| **Streamly** | `React` `WebRTC` `WebSockets` `Node.js` | Low-latency peer-to-peer video conferencing and screen-sharing application powered by a custom signaling server. | [View Code](https://github.com/shreyash-sb/Streamly) |
 
 ---
 
@@ -71,14 +73,21 @@
 
 ### 📈 GitHub Analytics
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shreyash-sb&theme=tokyonight" alt="GitHub Profile Details" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shreyash-sb&theme=tokyonight" alt="Top Languages" width="49%" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shreyash-sb&theme=tokyonight" alt="Activity Stats" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shreyash-sb&theme=tokyonight" alt="Productive Time" width="49%" />
-</div>
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shreyash-sb&theme=tokyonight" alt="GitHub Profile Details" height="165" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shreyash-sb&theme=tokyonight" alt="Top Languages" height="165" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shreyash-sb&theme=tokyonight" alt="Activity Stats" height="165" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shreyash-sb&theme=tokyonight" alt="Productive Time" height="165" />
+    </td>
+  </tr>
+</table>

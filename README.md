@@ -25,7 +25,7 @@
 - 📈 **Academic Record:** **7.69 / 10.0 CGPA** | **98.67 %ile** in MHT-CET | **88.32 %ile** in JEE Main.
 - ⚡ **Problem Solving:** **300+ Problems Solved** across LeetCode & **2★ Rated** on CodeChef.
 - 💼 **Leadership & Mentorship:** Assistant Web Developer at **SAIT, WCE**; Delivered hands-on AWS Cloud workshop to 50+ students; Lead organizer & problem setter for 40+ participant CP contest.
-- 🎯 **Current Focus:** Scalable backend architectures, distributed systems, and real-time AI agents. Seeking **Software Engineering Internships**.
+- 🎯 **Current Focus:** Scalable backend architectures, distributed systems, and real-time AI agents.
 
 ---
 

@@ -12,7 +12,9 @@
   <a href="https://github.com/shreyash-sb"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://leetcode.com/u/Shreyash1_6/"><img src="https://img.shields.io/badge/LeetCode-300+_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
   <a href="https://www.codechef.com/users/shreyash_61"><img src="https://img.shields.io/badge/CodeChef-2★_Rated-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>
-  <a href="mailto:shreyashbobalade2006@gmail.com"><img src="https://img.shields.io/badge/Email-Get_in_Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=shreyashbobalade2006@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-Get_in_Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
 </p>
 
 </div>
